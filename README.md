@@ -53,7 +53,7 @@
 
 # HOW TO INSTALL ON WINDOWS
 ```
-git clone https://github.com/01010000-kumar/PhoneSploit
+git clone https://github.com/goverdhanpandey/PhoneSploit.git
 ```
 extract adb.rar to the phonesploit directory 
 ```
@@ -64,7 +64,7 @@ phonesploit.py
 
 # HOW TO INSTALL ON Linux
 ```
-git clone https://github.com/01010000-kumar/PhoneSploit
+git clone https://github.com/goverdhanpandey/PhoneSploit.git
 cd PhoneSploit
 pip3 install colorama
 python3 phonesploit.py
@@ -74,7 +74,7 @@ python3 phonesploit.py
 First of all, install [brew](https://brew.sh)
 ```
 brew install git python@3
-git clone https://github.com/01010000-kumar/PhoneSploit
+git clone https://github.com/goverdhanpandey/PhoneSploit.git
 cd PhoneSploit
 python3 -m pip install colorama
 python3 phonesploit.py
